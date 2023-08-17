@@ -179,8 +179,3 @@ for k,v in dictAvgGrade.items():
 for c,g in dictGradeClass.items():
     #dictGradeClass[c] = dictGradeClass[c]/dictDemClass[c]
     dictGradeClass[c] /= dictDemClass[c]
-    
-    
-    
-for k,v in dictAvgGrade:
-    x = 1
